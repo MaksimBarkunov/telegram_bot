@@ -12,6 +12,7 @@ Commands:
 /костюм
 
 Screenshots :
+
 ![start](https://github.com/MaksimBarkunov/telegram_bot/assets/152010705/abf472c1-5861-41af-ac4d-e75836397665)
 ![info](https://github.com/MaksimBarkunov/telegram_bot/assets/152010705/3b2dd268-7749-43f3-8cd1-ad3c213a87bc)
 ![верхняя одежда](https://github.com/MaksimBarkunov/telegram_bot/assets/152010705/585ab2e5-5051-465b-870b-a4f185551b31)
